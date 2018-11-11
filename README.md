@@ -7,4 +7,4 @@ An example project with typescript and phaser. It uses browserify to generate a 
 | `npm run bw` | Run browserify an watchify for file changes. |
 | `npm run sassc` | Generate css |
 | `npm run build` | Run sassc and bw |
-| `npm listen` | start simple http-server |
+| `npm run listen` | start simple http-server |
